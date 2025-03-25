@@ -1,0 +1,51 @@
++---------------------------+
+|       Client Request      |
+| (POST /api/predict_home_loan) |
++---------------------------+
+              |
+              v
++---------------------------+
+|   Receive Customer Data   |
+| (JSON Payload)            |
++---------------------------+
+              |
+              v
++---------------------------+
+| Preprocess Customer Data  |
+| - Fill Missing Values     |
+| - Encode Categorical Data |
+| - Scale Numerical Data    |
++---------------------------+
+              |
+              v
++---------------------------+
+|  Predict Home Loan Likelihood |
+| - Use ML Model (joblib)       |
+| - Output: "Likely" or "Unlikely" |
++---------------------------+
+              |
+              v
++---------------------------+
+| Retrieve Context from     |
+| Vector Store (Chroma)     |
+| - Query: "Home Lending" or|
+|   "Investment Products"   |
+| - Use Similarity Search   |
++---------------------------+
+              |
+              v
++---------------------------+
+| Generate Recommendations  |
+| - Use LLM (e.g., Llama)   |
+| - Pass Customer Profile   |
+| - Include Retrieved Context |
+| - Suggest Home Loan or    |
+|   Investment Products     |
++---------------------------+
+              |
+              v
++---------------------------+
+|   Return JSON Response    |
+| - Home Loan Likelihood    |
+| - Recommendations         |
++---------------------------+
