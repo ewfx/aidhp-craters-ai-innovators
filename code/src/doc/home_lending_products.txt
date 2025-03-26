@@ -1,0 +1,35 @@
+Wells Fargo Home Lending Products
+1. Home Lending Products
+Wells Fargo offers a variety of home lending products designed to meet the needs of different customers.
+1.1 Mortgage Loans
+1.1.1 Fixed-Rate Mortgage
+- Predictable monthly payments with a locked interest rate.
+- Loan terms typically range from 10 to 30 years.
+- Suitable for long-term homeownership.
+1.1.2 Adjustable-Rate Mortgage (ARM)
+- Lower initial interest rates that adjust periodically.
+- Common options: 5/1, 7/1, and 10/1 ARMs.
+- Ideal for customers who plan to move or refinance before the adjustment period.
+1.1.3 Jumbo Loans
+- For loan amounts exceeding conventional loan limits.
+- Suitable for high-value property purchases.
+- Requires strong credit and financial stability.
+1.1.4 FHA Loans
+- Low down payment options (as low as 3.5%).
+- Government-backed for borrowers with lower credit scores.
+- Ideal for first-time homebuyers.
+1.1.5 VA Loans
+- Available to eligible veterans, active-duty service members, and their families.
+- No down payment required and no private mortgage insurance (PMI).
+- Competitive interest rates and flexible qualification criteria.
+1.1.6 USDA Loans
+- Designed for rural and suburban homebuyers.
+- No down payment required.
+- Government-backed with low mortgage insurance costs.
+1.2 Refinance Options
+1.2.1 Rate-and-Term Refinance
+- Lowers interest rate or changes loan terms.
+- Can reduce monthly payments.
+1.2.2 Cash-Out Refinance
+- Converts home equity into cash.
+- Ideal for debt consolidation or home improvements.
