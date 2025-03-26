@@ -231,7 +231,10 @@ Error Handling:
 
    Need API Key or Access Token form groqcloud and huggingface. 
 
-3. Run the project  
+3. Run the project<br/>
+   
+   Make sure to create .venv (Virtual Environment) and install the dependencies in the virtual environment under src folder.<br/>
+   Open the src folder in VS Code and run the following command in the terminal:
    python3 rag_recomend_api.py
 
 ## 🏗️ Tech Stack
