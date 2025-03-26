@@ -1,5 +1,5 @@
 # 🚀 Project Name
-Personalized Financial Recommendations Powered by AI
+AI-Driven Hyper-Personalization & Recommendations
 
 ## 📌 Table of Contents
 - [Introduction](#introduction)
@@ -20,11 +20,12 @@ This project is a Flask-based intelligent recommendation system that leverages m
 The purpose of this project is to address the lack of personalization in financial services by combining predictive analytics with context-aware recommendations. By integrating a Retrieval-Augmented Generation (RAG) pipeline, the system ensures that recommendations are both relevant and actionable.
 
 ## 🎥 Demo
-🔗 [Live Demo](#) (if applicable)  
-📹 [Video Demo](#) (if applicable)  
+🔗 [Live Demo]: Live demo can be found in https://github.com/ewfx/aidhp-craters-ai-innovators/tree/main/artifacts/demo  
+📹 [Video Demo]: Demo recording can be found in : https://github.com/ewfx/aidhp-craters-ai-innovators/tree/main/artifacts/demo
 🖼️ Screenshots:
 
-![Screenshot 1](link-to-image)
+![Screenshot 1]: For screenshots and ppt document refer the below link
+https://github.com/ewfx/aidhp-craters-ai-innovators/tree/main/artifacts/demo  
 
 ## 💡 Inspiration
    The inspiration for this project stems from the growing need for personalized financial services in the banking and financial sector. Customers today expect tailored recommendations that align with their unique financial profiles, goals, and circumstances. Traditional financial systems often rely on static rules or generic advice, which fails to address individual needs effectively.
@@ -232,7 +233,7 @@ Error Handling:
 
 ## 🏗️ Tech Stack
 Backend Framework: Flask
-Machine Learning: Pre-trained model (joblib), Scaler, Label Encoders
+Machine Learning: Pre-trained model (joblib), Scaler, Label Encoders, Random forst algorithm
 Vector Database: Chroma
 Embeddings: Hugging Face Inference API
 LLM: Llama (via LangChain)
@@ -243,4 +244,6 @@ API Type: REST API
 ## 👥 Team
 - Karthik Neela 
 - Bipul Biswas
-- 
+- Simhachalam Lakkakula
+- Brahmayya Nakka
+- Sree Sushma Rupineni
