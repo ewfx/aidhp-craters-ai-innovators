@@ -229,11 +229,11 @@ Error Handling:
 2. Install dependencies  
    pip install flask joblib numpy pandas langchain langchain-community chromadb python-dotenv scikit-learn
 
-   Need API Key or Access Token form groqcloud and huggingface. 
-
-3. Run the project<br/>
-   
    Make sure to create .venv (Virtual Environment) and install the dependencies in the virtual environment under src folder.<br/>
+
+   Need API Key or Access Token form groqcloud and huggingface. Add GROQ_API_KEY and HF_TOKEN in .env file under src folder.
+
+4. Run the project<br/>
    Open the src folder in VS Code and run the following command in the terminal:
    python3 rag_recomend_api.py
 
